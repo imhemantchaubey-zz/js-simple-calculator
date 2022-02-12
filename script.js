@@ -12,7 +12,7 @@ function calculate() {
   }
 }
 
-function clear() {
+function clearscreen() {
   userinput.value = "";
 }
 
